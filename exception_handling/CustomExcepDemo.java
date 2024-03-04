@@ -1,4 +1,4 @@
-package exception_handaling;
+package exception_handling;
 
 class InvalidateAgeExcep extends Exception{   // for custom excep. we need to extends exception class(base class)
     InvalidateAgeExcep(String s){             // define a constructor with string that displays the error msg 
